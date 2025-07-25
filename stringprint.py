@@ -3,4 +3,4 @@
 text = input("Enter the string: ")
 
 for i in text:
-    print(i)
+    print(i,end = " ")
