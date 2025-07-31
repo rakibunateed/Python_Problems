@@ -1,10 +1,12 @@
-# name = input("Enter your name: ")
-#
-# while name == "":
-#     print(f"This is the incorrect username {name}.")
-#     name = input("Please reenter your name: ")
-#
-# print(f"Welcome {name}.")
+# BASICS OF LOOPS
+
+name = input("Enter your name: ")
+
+while name == "":
+    print(f"This is the incorrect username {name}.")
+    name = input("Please reenter your name: ")
+
+print(f"Welcome {name}.")
 
 num = int(input("Enter an number between 0-10: "))
 

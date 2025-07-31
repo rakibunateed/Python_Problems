@@ -1,3 +1,5 @@
+# PRACTICE 2D LIST
+
 r = int(input("Enter the number of rows: "))
 c =int(input("Enter the number of columns: "))
 
