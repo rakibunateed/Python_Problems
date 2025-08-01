@@ -1,6 +1,6 @@
 # BASICS OF LOOPS
 
-name = input("Enter your name: ")
+name = input("Enter your full name : ")
 
 while name == "":
     print(f"This is the incorrect username {name}.")
