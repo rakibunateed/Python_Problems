@@ -1,4 +1,4 @@
-# concession stand program
+# CONCESSION STAND PROGRAM
 
 menu = {"pizza": 3.00,
         "nachos": 4.50,

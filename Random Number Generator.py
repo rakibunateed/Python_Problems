@@ -1,4 +1,4 @@
-# random numbers
+# RANDOM NUMBER GENERATOR PROGRAM
 import random
 
 high = 100

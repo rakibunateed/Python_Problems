@@ -1,3 +1,5 @@
+# SHOPPING CART PROGRAM
+
 foods = []
 prices = []
 total = 0

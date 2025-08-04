@@ -1,4 +1,4 @@
-# ROCK PAPER SCISSORS Game
+# ROCK PAPER SCISSORS PROGRAM
 import random
 
 
